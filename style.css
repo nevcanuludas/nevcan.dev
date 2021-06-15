@@ -1,0 +1,29 @@
+body {
+  background-color: #fefefe;
+}
+
+.red-title {
+  margin: 24px 0 0.2em !important;
+  line-height: 1em !important;
+  font-family: 'Rock Salt', cursive !important;
+}
+
+.text-primary {
+  color: #990000;
+  /* color: #bf735c; */
+}
+
+label.label {
+  margin-top: 2em;
+  font-family: 'Rock Salt', cursive !important;
+}
+
+.hobbies {
+  display: flex;
+  justify-content: space-around;
+}
+
+.hobbies img {
+  margin: .5rem;
+  height: 4rem;
+}
